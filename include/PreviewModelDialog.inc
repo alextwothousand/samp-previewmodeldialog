@@ -828,7 +828,7 @@ static Prev_FetchListitemData(const listitem[], &modelid, text[], &Float:rx, &Fl
 	return 1;
 }
 
-// hooked methods
+// hooked methodss
 public OnGameModeInit() {
     Prev_CreateTextDraws();
 
