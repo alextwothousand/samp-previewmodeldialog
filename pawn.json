@@ -1,0 +1,9 @@
+{
+    "user": "Gammix",
+    "repo": "samp-previewmodeldialog",
+    "include_path": "include/",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"BigETI/pawn-memory:2.0.1"
+	]
+}
